@@ -1,0 +1,4 @@
+name: WispOPVillagers
+version: ${project.version}
+main: dev.yhdiamond.wispopvillagers.WispOPVillagers
+api-version: 1.16

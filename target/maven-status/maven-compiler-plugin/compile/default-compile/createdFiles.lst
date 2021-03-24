@@ -1,0 +1,17 @@
+dev\yhdiamond\wispopvillagers\ItemBuilder.class
+dev\yhdiamond\wispopvillagers\RandomItemMaker.class
+dev\yhdiamond\wispopvillagers\bstats\Metrics$MetricsBase.class
+dev\yhdiamond\wispopvillagers\SpawnListener.class
+dev\yhdiamond\wispopvillagers\bstats\Metrics$SingleLineChart.class
+dev\yhdiamond\wispopvillagers\bstats\Metrics$SimpleBarChart.class
+dev\yhdiamond\wispopvillagers\WispOPVillagers.class
+dev\yhdiamond\wispopvillagers\bstats\Metrics$CustomChart.class
+dev\yhdiamond\wispopvillagers\bstats\Metrics$AdvancedBarChart.class
+dev\yhdiamond\wispopvillagers\bstats\Metrics$JsonObjectBuilder.class
+dev\yhdiamond\wispopvillagers\bstats\Metrics$MultiLineChart.class
+dev\yhdiamond\wispopvillagers\bstats\Metrics.class
+dev\yhdiamond\wispopvillagers\bstats\Metrics$DrilldownPie.class
+dev\yhdiamond\wispopvillagers\bstats\Metrics$JsonObjectBuilder$JsonObject.class
+dev\yhdiamond\wispopvillagers\bstats\Metrics$SimplePie.class
+dev\yhdiamond\wispopvillagers\bstats\Metrics$AdvancedPie.class
+dev\yhdiamond\wispopvillagers\bstats\Metrics$1.class
